@@ -1,5 +1,5 @@
 {% set name = "sumtypes" %}
-{% set version = "0.1a5" %}
+{% set version = "0.1a6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sumtypes-{{ version }}.tar.gz
-  sha256: bb57fa40a341fc9204ba7f03f181a5d3c0ab765f4ee517a6ba96d8311f4713e7
+  sha256: 1a6ff095e06a1885f340ddab803e0f38e3f9bed81f9090164ca9682e04e96b43
 
 build:
   number: 0
